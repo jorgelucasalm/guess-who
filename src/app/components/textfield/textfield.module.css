@@ -1,0 +1,10 @@
+.TextField {
+    padding: .8rem 2rem;
+    max-width: 18rem;
+
+    background-color: #ccc;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;    
+    text-align: center;
+}
